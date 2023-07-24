@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Bhagyesh Shinkar",
   subTitle: "Full Stack Developer, Mern Stack Developer. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+    "https://drive.google.com/file/d/1_jLFbjwWYbXWKPSSWaSxNxM_tkWjTGmt/view?usp=sharing",
   mail: "mailto:bhagyeshshinkar37@gmail.com",
 };
 
