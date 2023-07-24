@@ -33,5 +33,3 @@ I have used Netlify to host my portfolio. If you want to use GitHub Pages, just 
 
 # References
 
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
