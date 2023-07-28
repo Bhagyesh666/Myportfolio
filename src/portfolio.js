@@ -220,14 +220,6 @@ const certifications = {
       alt_name: "GL",
       color_code: "#ffc475",
     },
-    {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffc475",
-    },
   ],
 };
 
@@ -258,7 +250,7 @@ const experience = {
           company: "Oasis Infobyte",
           company_url: "https://oasisinfobyte.com/",
           logo_path: "OI.png",
-          duration: "Jan 2023 - Feb 2021",
+          duration: "Jan 2023 - Feb 2023",
           location: "Remote",
           description:
             "Assisted in the design and development of responsive and user-friendly websites. Contributed to the maintenance and improvement of existing websites.",
